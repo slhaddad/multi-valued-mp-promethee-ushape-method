@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMD_Promethee_Quasi_C", "PMD_Euclidien\PMD_Promethee_Quasi_C.csproj", "{314B6314-08FC-4929-AD72-17BC769EF47A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{314B6314-08FC-4929-AD72-17BC769EF47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314B6314-08FC-4929-AD72-17BC769EF47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314B6314-08FC-4929-AD72-17BC769EF47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314B6314-08FC-4929-AD72-17BC769EF47A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89066691-B3FF-40B0-AC43-906B274AEC3E}
+	EndGlobalSection
+EndGlobal

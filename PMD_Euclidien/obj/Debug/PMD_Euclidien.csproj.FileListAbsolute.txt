@@ -1,0 +1,57 @@
+c:\users\salim\documents\visual studio 2015\Projects\PMD_Euclidien\PMD_Euclidien\bin\Debug\PMD_Euclidien.exe.config
+c:\users\salim\documents\visual studio 2015\Projects\PMD_Euclidien\PMD_Euclidien\bin\Debug\PMD_Euclidien.exe
+c:\users\salim\documents\visual studio 2015\Projects\PMD_Euclidien\PMD_Euclidien\bin\Debug\PMD_Euclidien.pdb
+c:\users\salim\documents\visual studio 2015\Projects\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.csprojResolveAssemblyReference.cache
+c:\users\salim\documents\visual studio 2015\Projects\PMD_Euclidien\PMD_Euclidien\obj\Debug\MainWindow.g.cs
+c:\users\salim\documents\visual studio 2015\Projects\PMD_Euclidien\PMD_Euclidien\obj\Debug\App.g.cs
+c:\users\salim\documents\visual studio 2015\Projects\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien_MarkupCompile.cache
+c:\users\salim\documents\visual studio 2015\Projects\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien_MarkupCompile.lref
+c:\users\salim\documents\visual studio 2015\Projects\PMD_Euclidien\PMD_Euclidien\obj\Debug\MainWindow.baml
+c:\users\salim\documents\visual studio 2015\Projects\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.g.resources
+c:\users\salim\documents\visual studio 2015\Projects\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.Properties.Resources.resources
+c:\users\salim\documents\visual studio 2015\Projects\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.csproj.GenerateResource.Cache
+c:\users\salim\documents\visual studio 2015\Projects\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.exe
+c:\users\salim\documents\visual studio 2015\Projects\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.pdb
+C:\Users\Salim\Desktop\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\bin\Debug\PMD_Euclidien.exe.config
+C:\Users\Salim\Desktop\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.exe
+C:\Users\Salim\Desktop\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.pdb
+C:\Users\Salim\Desktop\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\bin\Debug\PMD_Euclidien.exe
+C:\Users\Salim\Desktop\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\bin\Debug\PMD_Euclidien.pdb
+C:\Users\Salim\Desktop\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.csprojResolveAssemblyReference.cache
+C:\Users\Salim\Desktop\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\MainWindow.g.cs
+C:\Users\Salim\Desktop\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\App.g.cs
+C:\Users\Salim\Desktop\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien_MarkupCompile.cache
+C:\Users\Salim\Desktop\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien_MarkupCompile.lref
+C:\Users\Salim\Desktop\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\MainWindow.baml
+C:\Users\Salim\Desktop\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.g.resources
+C:\Users\Salim\Desktop\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.Properties.Resources.resources
+C:\Users\Salim\Desktop\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.csproj.GenerateResource.Cache
+D:\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\bin\Debug\PMD_Euclidien.exe.config
+D:\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.exe
+D:\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.pdb
+D:\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\bin\Debug\PMD_Euclidien.exe
+D:\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\bin\Debug\PMD_Euclidien.pdb
+D:\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.csprojResolveAssemblyReference.cache
+D:\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\MainWindow.g.cs
+D:\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\App.g.cs
+D:\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien_MarkupCompile.cache
+D:\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien_MarkupCompile.lref
+D:\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\MainWindow.baml
+D:\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.g.resources
+D:\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.Properties.Resources.resources
+D:\Resultats 28-06-2017\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.csproj.GenerateResource.Cache
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\bin\Debug\PMD_Euclidien.exe.config
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\bin\Debug\PMD_Euclidien.exe
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\bin\Debug\PMD_Euclidien.pdb
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.csprojAssemblyReference.cache
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\MainWindow.g.cs
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\App.g.cs
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien_MarkupCompile.cache
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien_MarkupCompile.lref
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\MainWindow.baml
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.g.resources
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.Properties.Resources.resources
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.csproj.GenerateResource.cache
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.csproj.CoreCompileInputs.cache
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.exe
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.pdb

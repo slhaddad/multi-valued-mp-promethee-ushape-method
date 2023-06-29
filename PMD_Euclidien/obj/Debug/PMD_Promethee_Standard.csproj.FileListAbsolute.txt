@@ -1,0 +1,15 @@
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\bin\Debug\PMD_Euclidien.exe.config
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\bin\Debug\PMD_Euclidien.exe
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\bin\Debug\PMD_Euclidien.pdb
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Promethee_Standard.csprojAssemblyReference.cache
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\MainWindow.g.cs
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\App.g.cs
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien_MarkupCompile.cache
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien_MarkupCompile.lref
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\MainWindow.baml
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.g.resources
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.Properties.Resources.resources
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Promethee_Standard.csproj.GenerateResource.cache
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Promethee_Standard.csproj.CoreCompileInputs.cache
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.exe
+C:\Users\Salim\source\repos\PMD_Euclidien\PMD_Euclidien\obj\Debug\PMD_Euclidien.pdb
