@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- EMP_Promethee_Pseudo_C_EnU : configuration identique au projet AHP de référence (SDK .NET 10, WPF, C# par défaut = C# 14) -->
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>EMP_Promethee_Pseudo_C_EnU</RootNamespace>
+    <AssemblyName>EMP_Promethee_Pseudo_C_EnU</AssemblyName>
+    <AssemblyTitle>EMP_Promethee_Pseudo_C_EnU</AssemblyTitle>
+    <Product>EMP_Promethee_Pseudo_C_EnU</Product>
+    <Version>2.0.0</Version>
+  </PropertyGroup>
+
+  <!-- Publication : exécutable Windows 64 bits autonome, en un seul fichier (aucun .NET requis sur la machine cible) -->
+  <PropertyGroup>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SelfContained>true</SelfContained>
+    <PublishSingleFile>true</PublishSingleFile>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
+  </PropertyGroup>
+
+</Project>

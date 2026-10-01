@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Lancer EMP_Promethee_Pseudo_C_EnU (Debug)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/EMP_Promethee_Pseudo_C_EnU/bin/Debug/net10.0-windows/win-x64/EMP_Promethee_Pseudo_C_EnU.exe",
+      "args": [],
+      "cwd": "${workspaceFolder}/EMP_Promethee_Pseudo_C_EnU/bin/Debug/net10.0-windows/win-x64",
+      "stopAtEntry": false,
+      "console": "internalConsole"
+    }
+  ]
+}

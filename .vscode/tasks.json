@@ -1,0 +1,47 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build",
+      "type": "process",
+      "command": "dotnet",
+      "args": [
+        "build",
+        "${workspaceFolder}/EMP_Promethee_Pseudo_C_EnU/EMP_Promethee_Pseudo_C_EnU.csproj",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary"
+      ],
+      "problemMatcher": "$msCompile",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "publish",
+      "type": "process",
+      "command": "dotnet",
+      "args": [
+        "publish",
+        "${workspaceFolder}/EMP_Promethee_Pseudo_C_EnU/EMP_Promethee_Pseudo_C_EnU.csproj",
+        "-c",
+        "Release",
+        "-o",
+        "${workspaceFolder}/Executable",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary"
+      ],
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "clean",
+      "type": "process",
+      "command": "dotnet",
+      "args": [
+        "clean",
+        "${workspaceFolder}/EMP_Promethee_Pseudo_C_EnU/EMP_Promethee_Pseudo_C_EnU.csproj"
+      ],
+      "problemMatcher": "$msCompile"
+    }
+  ]
+}
